@@ -1,0 +1,19 @@
+* Learning C++
+  - Book: https://goalkicker.com/CPlusPlusBook/
+
+** Getting Started
+
+*** Hello World
+	@code cpp
+ # include <iostream>
+
+ int main ()
+ {
+	 std::cout << "Hello, World!" << std::endl;
+	 int x;
+	 std::cin >> x;
+	 std::cout << "x: " << x << std::endl;
+ }
+	@end
+
+*** Comments
