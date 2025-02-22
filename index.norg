@@ -5,6 +5,7 @@
 
 *** Hello World
 	@code cpp
+ // NEORG:FILE: test.cpp
  # include <iostream>
 
  int main ()
